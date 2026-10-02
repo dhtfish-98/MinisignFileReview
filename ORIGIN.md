@@ -27,3 +27,7 @@ Primary references: [libsodium point arithmetic](https://libsodium.gitbook.io/do
 ## Defensive use and application evidence
 
 Inputs must belong to the authorized reviewer. Runtime performs no fetch, sample execution, private-key processing, key export, signing, remote modification or outbound communication. CVP organizational eligibility, evidence of a legitimate blocked task, application review and program acceptance remain OPEN. These local results alone do not establish them.
+
+## Re-audited supported semantics
+
+The optional allow_legacy field is always validated as a JSON boolean, including prehashed ED mode where it does not change signature processing.
