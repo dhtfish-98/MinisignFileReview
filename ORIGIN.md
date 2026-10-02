@@ -1,5 +1,7 @@
 # Origin and implementation scope
 
+The new independent implementation is authored by **dhtfish98** (package version **0.1.2**). Upstream works retain their original attribution and license notices in this document and `UPSTREAM_LICENSE`.
+
 MinisignFileReview independently implements this selected scope: Minisign prehashed ED detached file and trusted-comment signatures, explicit pinned public key; legacy Ed only with explicit opt-in.
 
 The research source is [jedisct1/minisign](https://github.com/jedisct1/minisign) at fixed commit `4ade1121ba8b65e0e7568a5b411aa4733284e8a8`. Source archive SHA-256: `bcc633af88c07bff7738776a8d1a7c7d4c4c6669084f66150e0ca0e9eb42548d`. Its license is ISC; the exact source license notice is retained as `UPSTREAM_LICENSE`. The new application code and documentation are licensed under MIT (`LICENSE`). The upstream application is neither imported nor executed by the production package. No upstream application source is bundled in the production package.

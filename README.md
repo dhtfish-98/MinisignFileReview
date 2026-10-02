@@ -1,5 +1,7 @@
 # MinisignFileReview
 
+New implementation author: **dhtfish98**. Package version: **0.1.2**.
+
 Minisign prehashed ED detached file and trusted-comment signatures, explicit pinned public key; legacy Ed only with explicit opt-in.
 
 This is an independently implemented, complete selected offline input profile. It is not an equivalent rewrite of the entire upstream platform. Cryptographic primitives use cryptography; no upstream application is called.
