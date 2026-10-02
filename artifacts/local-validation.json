@@ -1,0 +1,14 @@
+{
+  "project": "MinisignFileReview",
+  "status": "PASS",
+  "test_count": 11,
+  "wheel": "cvp_minisign_file_review-0.1.0-py3-none-any.whl",
+  "wheel_sha256": "f8b70d2ec125c7c81092267ba6140d63c0833a35f5ec72fdc67c46d5a15b8148",
+  "verification": "Local supported and malformed input tests, wheel build, separate install, imported package origin and CLI checks",
+  "reproduction": [
+    "python -m pip install .",
+    "python -m unittest discover -s tests -v",
+    "python -m pip wheel --no-deps --wheel-dir artifacts ."
+  ],
+  "limits": "Point-in-time engineering evidence only; CVP qualification and approval remain OPEN"
+}

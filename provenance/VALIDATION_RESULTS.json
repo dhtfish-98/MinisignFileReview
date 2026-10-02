@@ -1,0 +1,28 @@
+{
+  "recorded_date": "2026-10-02",
+  "project": "MinisignFileReview",
+  "source_code_sha256": "7a20afd5d82e9f6ec5e8b4eaebd92fd0eb99a9ed93ab3550bca534b65f167017",
+  "wheel_filename": "cvp_minisign_file_review-0.1.0-py3-none-any.whl",
+  "wheel_sha256": "f8b70d2ec125c7c81092267ba6140d63c0833a35f5ec72fdc67c46d5a15b8148",
+  "build_setuptools": "84.0.0",
+  "runtime_dependencies": [
+    "cryptography==50.0.2",
+    "PyNaCl==1.6.2"
+  ],
+  "unit_test_count": 11,
+  "source_unit_tests": "PASS",
+  "independently_installed_unit_tests": "PASS",
+  "installed_source_bytes_equal": true,
+  "normal_tests_change_source_or_examples": false,
+  "installed_valid_cli_exit": 0,
+  "installed_invalid_cli_exit": 1,
+  "installed_network_disabled_result": "PASS",
+  "comparison_status": "PASS",
+  "comparison_detail": {
+    "reference": "public Minisign official 0.12 tar.gz and .minisig",
+    "artifact_sha256": "677e3dd52f559992c72be932d958587b5f731a1a295bcee37be878ed3f585926",
+    "real_upstream_release_signature_verified": true
+  },
+  "not_whole_upstream_equivalence": true,
+  "CVP_eligibility": "OPEN"
+}

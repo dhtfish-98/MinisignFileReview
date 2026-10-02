@@ -1,0 +1,37 @@
+{
+  "source_repository": "https://github.com/jedisct1/minisign",
+  "source_commit": "4ade1121ba8b65e0e7568a5b411aa4733284e8a8",
+  "source_license": "ISC",
+  "source_archive_sha256": "bcc633af88c07bff7738776a8d1a7c7d4c4c6669084f66150e0ca0e9eb42548d",
+  "review_focus": [
+    "detached signature wire format",
+    "prehashed ED and trusted-comment signature inputs"
+  ],
+  "complete_selected_files_retained_in_research_archive": true,
+  "research_archive_path": "identity/upstream/minisign",
+  "selected_files": [
+    {
+      "path": "src/minisign.c",
+      "sha256": "ebff7824247282cfc7ed5ba7e09713cf667a0d633680dd93ce6856db5b7c3263",
+      "bytes": 36501,
+      "lines": 1066,
+      "url": "https://github.com/jedisct1/minisign/blob/4ade1121ba8b65e0e7568a5b411aa4733284e8a8/src/minisign.c"
+    },
+    {
+      "path": "src/helpers.c",
+      "sha256": "e5f079150e91ee690656c176dde284ad58c4d73ad9525532a59614a0c52d8d81",
+      "bytes": 4926,
+      "lines": 258,
+      "url": "https://github.com/jedisct1/minisign/blob/4ade1121ba8b65e0e7568a5b411aa4733284e8a8/src/helpers.c"
+    },
+    {
+      "path": "README.md",
+      "sha256": "652c531dad34d7972ed9e4353f9bd0f8c6b76c119b49b4e7f65a7488d0d53576",
+      "bytes": 7108,
+      "lines": 234,
+      "url": "https://github.com/jedisct1/minisign/blob/4ade1121ba8b65e0e7568a5b411aa4733284e8a8/README.md"
+    }
+  ],
+  "new_implementation_all_source_files_reviewed": true,
+  "whole_upstream_platform_equivalence": false
+}

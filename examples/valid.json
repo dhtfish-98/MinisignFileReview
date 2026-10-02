@@ -1,0 +1,5 @@
+{
+  "file": "examples/artifact.bin",
+  "public_key": "RWQxMjM0NTY3OEUP5hUi21t3IEs+vYEWVEfp6UhdbyuJzMdVt06ak5EN",
+  "signature": "untrusted comment: test\nRUQxMjM0NTY3OC10neFhU4NXQ4+KkVgOOQUmg3uGqLS90zfZpwyUamsAUj+mEwzyqJ8UC7/YwKD3BYQ1s5iE2ynfEmlmqV5jwAc=\ntrusted comment: synthetic verification vector\ncg4sTTClFjXBsOZfxtFW/oH+sfyz0Ag4iJm3heX/2MO3WHgfLp5iQ6f23zbuCjEN9/LHzXBJhqwFK4cP5AE6Aw==\n"
+}
