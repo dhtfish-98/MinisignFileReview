@@ -1,0 +1,30 @@
+{
+  "schema": "project-build-layout.v1",
+  "project": "MinisignFileReview",
+  "author": "dhtfish98",
+  "kind": "python",
+  "base_public_commit": "e46a410b6c740a1a19099ef4eed8383aaa852ad9",
+  "restored_inputs": [
+    {
+      "original": "LICENSE",
+      "stored": "项目文档/LICENSE",
+      "sha256": "de926d6c22d9e061af6158b0f23146ce036bfb2a562f2f406acec2dc4bd8b298"
+    },
+    {
+      "original": "ORIGIN.md",
+      "stored": "项目文档/ORIGIN.md",
+      "sha256": "76cf33930ad14370766b93c04b40f54184b5291207bf97129946122dee0b0817"
+    },
+    {
+      "original": "README.md",
+      "stored": "项目文档/README.md",
+      "sha256": "747058b8842e0d3fe8ff6d4708b3e7255b5eed803ffc1bdc03a47da8ee92b05a"
+    },
+    {
+      "original": "VALIDATION.md",
+      "stored": "项目文档/VALIDATION.md",
+      "sha256": "9bf393d0193fc3b8218a4248f0c289da209e7faf8eac17017c7d677a6c507650"
+    }
+  ],
+  "platform_entries": []
+}
